@@ -79,7 +79,7 @@ Category manager provides solution to achieve all these.
 <div id="design">
 <h3>Design / architecture </h3>
 <br>
-<img alt="Design Diagram" src="./assets/cm-design.png"></img>
+<img alt="Design Diagram" src="https://github.com/category-manager/.github/profile/assets/cm-design.png"></img>
 <br>
 Design / architecture
 <br>
@@ -97,7 +97,7 @@ Design / architecture
 </li>
 </p>
 <br>
-<img alt="Design Diagram" src="./assets/cm-er.png"></img>
+<img alt="Design Diagram" src="https://github.com/category-manager/.github/profile/assets/cm-er.png"></img>
 <br>
 Core spi
 <br>
@@ -120,7 +120,7 @@ the way we classify the data, relinking the sub-tree/graph on each operation whi
 </li>
 </p>
 <br>
-<img alt="Design Diagram" src="./assets/cm-topology.png"></img>
+<img alt="Design Diagram" src="https://github.com/category-manager/.github/profile/assets/cm-topology.png"></img>
 Project files structure
 <br>
 
